@@ -1,0 +1,70 @@
+.rock-button{
+    background-color:rgb(200, 0, 0);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left:16px;
+    padding-right:16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+    font-weight: bold;
+    font-size:20px;
+    
+
+}
+.paper-button{
+    background-color:rgb(200, 0, 0);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left:16px;
+    padding-right:16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+    font-weight: bold;
+    font-size:20px;
+
+}
+.scissor-button{
+    background-color:rgb(200, 0, 0);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left:16px;
+    padding-right:16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+    font-weight:bold;
+    font-size:20px;
+    
+    
+}
+.rock-button:hover{
+        opacity: 0.7;
+    }
+    .rock-button:active{
+        opacity: 0.4;
+    }
+    .paper-button:hover{
+        opacity: 0.7;
+    }
+    .paper-button:active{
+        opacity: 0.4;
+    }
+    .scissor-button:hover{
+        opacity: 0.7;
+    }
+    .scissor-button:active{
+        opacity: 0.4;
+    }
+    
+    
+.p{
+    font-size:30px;
+}
